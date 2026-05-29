@@ -21,6 +21,13 @@ The project features:
 * Typing cooldown for smoother interaction
 
 ---
+## Preview
+
+![Keyboard UI](keyboard_ui.png)
+
+## Demo Video
+
+Download and watch: `virtual_keyboard.mp4`
 
 ## Built With
 
