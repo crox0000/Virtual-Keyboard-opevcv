@@ -61,17 +61,8 @@ python --version
 git clone https://github.com/crox0000/VirtualKeyboard.git
 ```
 
----
 
-### 2. Navigate into project folder
-
-```bash
-cd VirtualKeyboard
-```
-
----
-
-### 3. Create virtual environment
+### 2. Create virtual environment
 
 ```bash
 python -m venv venv
@@ -79,7 +70,7 @@ python -m venv venv
 
 ---
 
-### 4. Activate virtual environment
+### 3. Activate virtual environment
 
 #### Windows
 
@@ -89,7 +80,7 @@ venv\Scripts\activate
 
 ---
 
-### 5. Install dependencies
+### 4. Install dependencies
 
 ```bash
 pip install opencv-python
