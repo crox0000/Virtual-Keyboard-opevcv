@@ -58,7 +58,7 @@ python --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/VirtualKeyboard.git
+git clone https://github.com/crox0000/VirtualKeyboard.git
 ```
 
 ---
